@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/nelson-xunic-cua/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.overleaf.com/read/hprkgtxxjypq#dfdfb5">
+  <a href="https://github.com/NelsonXunic/NelsonXunic/blob/main/CV_2024_Math%20(3).pdf">
     <img src="https://github.com/NelsonXunic/NelsonXunic/blob/main/curriculum-vitae.png"?style=for-the-badge&logo=cv&logoColor=white" alt="CV Badge" width="30" height="30"/>
 <!--     <a href="https://www.freepik.com/icon/curriculum-vitae_1207431">Icon by Freepik</a> -->
   </a>
