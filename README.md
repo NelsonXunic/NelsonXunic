@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.overleaf.com/read/hprkgtxxjypq#dfdfb5">
-    <img src="https://github.com/NelsonXunic/NelsonXunic/blob/main/curriculum-vitae.png"?style=for-the-badge&logo=cv&logoColor=white" alt="CV Badge" width="25" height="30"/>
+    <img src="https://github.com/NelsonXunic/NelsonXunic/blob/main/curriculum-vitae.png"?style=for-the-badge&logo=cv&logoColor=white" alt="CV Badge" width="30" height="30"/>
 <!--     <a href="https://www.freepik.com/icon/curriculum-vitae_1207431">Icon by Freepik</a> -->
   </a>
     <!--<a href="your-twitter-URL">
