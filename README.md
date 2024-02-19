@@ -6,8 +6,8 @@
   <a href="https://www.linkedin.com/in/nelson-xunic-cua/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.freepik.com/icon/curriculum-vitae_1207431">Icon by Freepik</a>
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.overleaf.com/read/hprkgtxxjypq#dfdfb5">
+    <img src="https://www.freepik.com/icon/curriculum-vitae_1207431?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
     <!--<a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
