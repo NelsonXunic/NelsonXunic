@@ -7,7 +7,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.overleaf.com/read/hprkgtxxjypq#dfdfb5">
-    <img src="C:\Users\xuniccuan\Downloads\curriculum-vitae_1207431.png?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://www.freepik.com/icon/curriculum-vitae_1207431"?style=for-the-badge&logo=cv&logoColor=white" alt="CV Badge"/>
+<!--     <a href="https://www.freepik.com/icon/curriculum-vitae_1207431">Icon by Freepik</a> -->
   </a>
     <!--<a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
