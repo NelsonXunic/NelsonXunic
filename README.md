@@ -29,12 +29,8 @@ I’m a student at Berea College as an Undergraduate majoring in Mathematics and
   - 🌱 Currently learning Topology and Theory of Computation.
   - 👯 Looking to collaborate on research that brings Mathematics and Computer Science together.
   - ✔️Precious research experience:
-     - <a href="https://drive.google.com/file/d/1XuqHMD_Ayw93FgpNxzTJFT9rqDHtNlV3/view?usp=sharing">
-    Summer 2022
-  </a>
-     - <a href="https://drive.google.com/file/d/1v2dM3KGYqBhr_kHsN1byKJtQMc3dK89y/view?usp=sharing">
-    Summer 2023
-  </a>
+     - <a href="https://drive.google.com/file/d/1XuqHMD_Ayw93FgpNxzTJFT9rqDHtNlV3/view?usp=sharing"> Summer 2022  </a>
+     - <a href="https://drive.google.com/file/d/1v2dM3KGYqBhr_kHsN1byKJtQMc3dK89y/view?usp=sharing"> Summer 2023  </a>
   - 📫 How to reach me: nelsonxunic8@gmail.com
   <!-- - 🤔 I’m looking for help with ... ->
   <!-- - 💬 Ask me about ... -->
