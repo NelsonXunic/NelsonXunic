@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 - 🔭 I’m currently a student at Berea College as an Undergraduate majoring in Mathematics and Computer Science.
--- 🌱 I’m currently learning Topology and Theory of Computation.
+- 🌱 I’m currently learning Topology and Theory of Computation.
 - 👯 I’m looking to collaborate on research that brings Mathematics and Computer Science together.
-  <!-- - 🤔 I’m looking for help with ...
+<!-- - 🤔 I’m looking for help with ... ->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: nelsonxunic8@gmail.com
   <!-- - ⚡ Fun fact: ... -->
