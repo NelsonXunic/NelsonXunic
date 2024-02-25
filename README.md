@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on graduating from Berea College as an Undergraduate majoring in Mathematics and Computer Science
 - 🌱 I’m currently learning Topology and Theory of Computation
 - 👯 I’m looking to collaborate on research that brings Mathematics and Computer Science together
-/*- 🤔 I’m looking for help with ...*/
-/*- 💬 Ask me about ...*/
+  <!-- - 🤔 I’m looking for help with ...
+<!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: nelsonxunic8@gmail.com
-/*- ⚡ Fun fact: ...*/
+  <!-- - ⚡ Fun fact: ... -->
 
