@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
-I’m a student at Berea College as an Undergraduate majoring in Mathematics and Computer Science.
+I’m a student at Berea College majoring in Mathematics and Computer Science.
   - 🌱 Currently learning Topology and Theory of Computation.
   - 👯 Looking to collaborate on research that brings Mathematics and Computer Science together.
   - ✔️Precious research experience:
