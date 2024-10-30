@@ -29,11 +29,12 @@ I’m a undergradute student at Berea College majoring in Mathematics and Comput
   - 🌱 My favorite course of this semester is Abstract Algebra II.
   - 👯 Looking to collaborate on research that brings Mathematics and Computer Science together.
   - ✔️Precious research experience:
+     - <a href="https://drive.google.com/file/d/1drYae_MRA5kmhXTL8EzkqtESVQYOqnp-/view?usp=sharing"> Summer 2024 </a>
      - <a href="https://drive.google.com/file/d/1v2dM3KGYqBhr_kHsN1byKJtQMc3dK89y/view?usp=sharing"> Summer 2023  </a>
      - <a href="https://drive.google.com/file/d/1XuqHMD_Ayw93FgpNxzTJFT9rqDHtNlV3/view?usp=sharing"> Summer 2022  </a>
   - 📫 How to reach me:
-  - xuniccuan@berea.edu
-  - nelsonxunic8@gmail.com
+    - xuniccuan@berea.edu
+    - nelsonxunic8@gmail.com
     
   <!-- - 🤔 I’m looking for help with ... ->
   <!-- - 💬 Ask me about ... -->
