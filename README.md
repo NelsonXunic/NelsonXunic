@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/nelson-xunic-cua/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://drive.google.com/file/d/1ImtVMT3A09AZsDMI7AJ41ZHBJTFzuOgf/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1RTyNKj-DVN_9KqmrgwAlhRlLhx-GRH3e/view?usp=sharing">
     <img src="https://github.com/NelsonXunic/NelsonXunic/blob/main/curriculum-vitae.png"?style=for-the-badge&logo=cv&logoColor=white" alt="CV Badge" width="30" height="30"/>
 <!--     <a href="https://www.freepik.com/icon/curriculum-vitae_1207431">Icon by Freepik</a> -->
   </a>
